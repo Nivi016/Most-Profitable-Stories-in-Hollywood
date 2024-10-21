@@ -31,7 +31,9 @@ Create chart and graphs power BI tools to visualize key insight:
 * Waterfall chart for which year count of film genre are more than.
 
                                          Dashboard & Report Creation
-  
+
+<img width="625" alt="dashboard" src="https://github.com/user-attachments/assets/3e43a928-7acf-4c91-8646-cfb34417639f">
+
 The report is designed to provide an interactive, user-friendly experience that allows users to access critical details about each film with a single click. It combines several key metrics, including Audience Score, Rotten Tomatoes Score, Film Genre, Lead Studio, and more, to offer a holistic view of what makes a Hollywood most profitable film
 
 Click on Film: Clicking on the title of any specific film in the report dashboard will reveal all the related details in one view.
@@ -69,6 +71,8 @@ During the course of the analysis, several challenges were encountered:
 * Correlation vs. Causation: It's important to note that just because two factors are correlated (e.g., higher audience score and higher profitability), it doesn't necessarily mean one causes the other.
 
                                          Final Report
+<img width="596" alt="report" src="https://github.com/user-attachments/assets/2da6498b-8b4f-4106-b0bd-b03ae6ed3fc6">
+  
 The final report consists of:
 * Data Visualizations: Bar charts, scatter plots, Donut charts, stacked column charts,waterfall charts and line charts illustrating key insights from the analysis.
 * Key Findings: The most profitable genres.
