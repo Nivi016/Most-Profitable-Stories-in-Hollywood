@@ -34,20 +34,19 @@ Create chart and graphs power BI tools to visualize key insight:
   
 The report is designed to provide an interactive, user-friendly experience that allows users to access critical details about each film with a single click. It combines several key metrics, including Audience Score, Rotten Tomatoes Score, Film Genre, Lead Studio, and more, to offer a holistic view of what makes a Hollywood most profitable film
 
-Click on Film: Clicking on the title of any specific film in the report dashboard will reveal   all the related details in one view.
-               Audience Score: Displays the film’s audience rating percentage.
-               Rotten Tomatoes Score: Shows the critical reception score.
-               Total Films: If you are analyzing multiple films, this feature will list the total number of films you are exploring.
+Click on Film: Clicking on the title of any specific film in the report dashboard will reveal all the related details in one view.
+* Audience Score: Displays the film’s audience rating percentage.
+* Rotten Tomatoes Score: Shows the critical reception score.
+* Total Films: If you are analyzing multiple films, this feature will list the total number of films you are exploring.
 
 Click on Genre: When you click on a genre (e.g., Comedy, Drama, Action), it filters the dashboard to show only the movies of that specific genre, allowing you to:
-
-               * View the profitability trends within that genre.
-               * Compare audience and critical reception across films of the same genre.
+* View the profitability trends within that genre.
+* Compare audience and critical reception across films of the same genre.
                
 Click on Lead Studio: Clicking on the Lead Studio name (e.g., Yash Raj Films, Dharma Productions) will display:
-               * The total number of films produced by that studio.
-               * The average profitability and gross earnings of the studio’s films.
-               * A comparison of audience reception and Rotten Tomatoes score across different films from that studio.
+* The total number of films produced by that studio.
+* The average profitability and gross earnings of the studio’s films.
+* A comparison of audience reception and Rotten Tomatoes score across different films from that studio.
 
                                         Outcomes
                                         
@@ -73,17 +72,17 @@ During the course of the analysis, several challenges were encountered:
 The final report consists of:
 * Data Visualizations: Bar charts, scatter plots, Donut charts, stacked column charts,waterfall charts and line charts illustrating key insights from the analysis.
 * Key Findings: The most profitable genres.
-               * Studios that consistently produce high-grossing films.
-               * The relationship between critical scores and profitability.
-               * Trends in profitability across different years.
+  * Studios that consistently produce high-grossing films.
+  * The relationship between critical scores and profitability.
+  * Trends in profitability across different years.
+    
 * Recommendations:
   * Genres and studios to watch for profitability.
   * How audience scores could be a better predictor of profitability than critical reviews.
   * Suggestions for filmmakers on balancing artistic content with audience appeal for better profitability.
 
                                          Conclusion
-The Hollywood Most Profitable Stories analysis sheds light on the various factors that contribute to a film's financial success. By analyzing the relationship between audience perception, critical reception, and profitability, we gain valuable insights into what drives the success of a film at the box office. While there are limitations in the data, key trends have emerged that can guide future decision-making for producers, studios, and investors. Ultimately, understanding the intricate balance between genre, studio, audience reception, and profitability can help stakeholders in the entertainment industry make more informed decisions and potentially increase their returns on film projects.
-This analysis not only uncovers historical trends but also provides a framework for predicting future box office successes. By continually updating the dashboard with new data, stakeholders can stay informed and adapt their strategies to ever-changing market dynamics.
+The Hollywood Most Profitable Stories analysis sheds light on the various factors that contribute to a film's financial success. By analyzing the relationship between audience perception, critical reception, and profitability, we gain valuable insights into what drives the success of a film at the box office. While there are limitations in the data, key trends have emerged that can guide future decision-making for producers, studios, and investors. Ultimately, understanding the intricate balance between genre, studio, audience reception, and profitability can help stakeholders in the entertainment industry make more informed decisions and potentially increase their returns on film projects. This analysis not only uncovers historical trends but also provides a framework for predicting future box office successes. By continually updating the dashboard with new data, stakeholders can stay informed and adapt their strategies to ever-changing market dynamics.
 
 
 
